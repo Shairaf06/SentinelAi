@@ -2,6 +2,12 @@
 
 AI-Powered Disaster Response & Emergency Intelligence System
 
+Status: 🚧 In Development
+
+Type: Hackathon Project
+
+Focus: Disaster Response + AI Assistance
+
 ## Overview
 
 SentinelAI is a futuristic AI-based disaster management platform designed to help detect emergencies, analyze risks, and provide real-time emergency guidance.
